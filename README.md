@@ -194,7 +194,7 @@ Performing mathematical operations on arrays efficiently.
 
 The complete practical implementation and notes can be accessed through Google Colab:
 
-- [Open NumPy for Data Analytics Notebook](YOUR_GOOGLE_COLAB_LINK_HERE)
+- [Open NumPy for Data Analytics Notebook](https://colab.research.google.com/drive/1GrUpjbZ0js5aMJzSFjR8MexwSqLFN0c6?usp=sharing)
 
 ---
 
